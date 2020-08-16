@@ -13,7 +13,7 @@ A burger devouring app using the MVC architectural pattern
 * Handlebars Templates and Layouts
 * MySQL / JawsDB
 
-## [View Site](https://powerful-bastion-15919.herokuapp.com/ "Eat-Da-Burger")
+## [View Site]( "Eat-Da-Burger")
 
 
 ![Eat-Da-Burger Screenshot](screenshots/screenshot.png?raw=true "Eat-Da-Burger")
